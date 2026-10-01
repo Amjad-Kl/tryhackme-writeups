@@ -7,7 +7,7 @@ A collection of TryHackMe walkthroughs and notes, focusing on methodologies and 
 
 | Room | Kategorie | Schwierigkeit | Write-up |
 |---|---|---|---|
-| [RootMe](https://tryhackme.com/room/rrootme) | Web Exploitation / Linux PrivEsc | Easy | [→ Write-up](./rootme/README.md) |
+| [RootMe](https://tryhackme.com/room/rrootme) | Web Exploitation / Linux PrivEsc | Easy | [→ Write-up](./RootMe/README.md) |
 
 ## Methodik
 
